@@ -1,0 +1,38 @@
+[
+  {
+    "id": "web",
+    "title": "Web Development",
+    "description": "High-performing, accessible web applications tailored to your brand.",
+    "pill": "Full-Stack"
+  },
+  {
+    "id": "mobile",
+    "title": "Mobile App Development",
+    "description": "Native and cross-platform apps with delightful user journeys.",
+    "pill": "iOS · Android"
+  },
+  {
+    "id": "erp",
+    "title": "ERP & Business Systems",
+    "description": "Custom ERPNext workflows and integrations that empower teams.",
+    "pill": "Automation"
+  },
+  {
+    "id": "uiux",
+    "title": "UI/UX Design",
+    "description": "Human-centered interfaces with storytelling and precision.",
+    "pill": "Design Sprints"
+  },
+  {
+    "id": "branding",
+    "title": "Branding & Digital Marketing",
+    "description": "Strategy, identity, and campaigns that resonate across digital touchpoints.",
+    "pill": "Growth"
+  },
+  {
+    "id": "social",
+    "title": "Social Media Promotion",
+    "description": "Content and automation to amplify your reach and community.",
+    "pill": "Engagement"
+  }
+]

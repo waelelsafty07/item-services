@@ -1,0 +1,34 @@
+[
+  {
+    "id": "erp-platform",
+    "title": "Vertex ERP Platform",
+    "description": "Modular ERP suite aligning operations, finance, and analytics on one canvas.",
+    "tags": ["ERP", "ERPNext", "Automation"],
+    "link": "https://github.com/wylzdev/vertex-erp",
+    "image": "vertex-erp"
+  },
+  {
+    "id": "pos-system",
+    "title": "FlowPOS Omnichannel",
+    "description": "Unified retail experience with offline-first POS and inventory intelligence.",
+    "tags": ["POS", "React", "Retail"],
+    "link": "https://github.com/wylzdev/flowpos",
+    "image": "flow-pos"
+  },
+  {
+    "id": "react-dashboard",
+    "title": "Nova Analytics Dashboard",
+    "description": "Realtime dashboards blending marketing, CRM, and product insights.",
+    "tags": ["Dashboard", "SaaS", "TypeScript"],
+    "link": "https://github.com/wylzdev/nova-dashboard",
+    "image": "nova-dashboard"
+  },
+  {
+    "id": "mobile-app",
+    "title": "PulseFit Mobile",
+    "description": "Cross-platform fitness companion with dynamic content and wearables sync.",
+    "tags": ["Mobile", "Flutter", "API"],
+    "link": "https://github.com/wylzdev/pulsefit",
+    "image": "pulsefit"
+  }
+]
