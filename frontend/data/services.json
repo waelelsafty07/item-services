@@ -1,0 +1,32 @@
+[
+  {
+    "id": "web",
+    "title": "Web Development",
+    "description": "Responsive dashboards, portals, and admin tools built with React, Next.js, and robust backend APIs."
+  },
+  {
+    "id": "mobile",
+    "title": "Mobile App Development",
+    "description": "Mobile-ready experiences backed by shared services and clean data models for unified operations."
+  },
+  {
+    "id": "erp",
+    "title": "ERP & Business Systems",
+    "description": "Full ERPNext lifecycle delivery — configuration, custom apps, integrations, and workflow automation."
+  },
+  {
+    "id": "uiux",
+    "title": "UI/UX Design",
+    "description": "Evidence-based design iterations that simplify complex user journeys for operations teams."
+  },
+  {
+    "id": "branding",
+    "title": "Branding & Digital Marketing",
+    "description": "Content platforms and campaign tooling to keep stakeholders informed and engaged."
+  },
+  {
+    "id": "social",
+    "title": "Social Media Promotion",
+    "description": "Automation-ready playbooks that connect marketing channels with CRM and reporting stacks."
+  }
+]
