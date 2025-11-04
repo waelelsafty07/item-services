@@ -1,17 +1,20 @@
 [
   {
-    "name": "Mostafa El Sayed",
-    "role": "Operations Lead, ERP Cloud Systems",
-    "quote": "Wael owns our ERPNext delivery from scoping to rollout. His automations cut manual follow-ups by hours each day and keep our support teams perfectly aligned."
+    "id": "lina-haddad",
+    "quote": "Wael turned our fragmented operations into a seamless digital ecosystem. We launched in half the time we expected.",
+    "name": "Lina Haddad",
+    "role": "COO, Horizon Clinics"
   },
   {
-    "name": "Rowan Abdelrahman",
-    "role": "Leasing Director, Dandy Mall",
-    "quote": "Dashboards, workflows, integrations — Wael rebuilt the way we manage units and contracts. Leadership finally has real-time visibility."
+    "id": "omar-saeed",
+    "quote": "His ability to translate vision into intuitive user journeys is unmatched. Our conversion rate jumped by 42%.",
+    "name": "Omar Saeed",
+    "role": "Founder, SwiftCommerce"
   },
   {
-    "name": "Omar Khaled",
-    "role": "Founder, RetailLab",
-    "quote": "Working with Wael feels like having a product partner. He understands the business problem, ships the backend fast, and documents everything for our team."
+    "id": "marie-cho",
+    "quote": "From ERP automations to product design, Wael delivered a cohesive experience that our team loves to use every day.",
+    "name": "Marie Cho",
+    "role": "Product Lead, Atlas Mobility"
   }
 ]

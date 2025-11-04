@@ -1,37 +1,34 @@
 [
   {
-    "title": "ERP Contact Center Suite",
-    "description": "Integrated contact-center operations with ERPNext, syncing tickets, contracts, and SLAs for a multi-brand support team.",
-    "image": "https://images.unsplash.com/photo-1525182008055-f88b95ff7980?auto=format&fit=crop&w=1200&q=80",
-    "tags": ["ERPNext", "Integrations", "Automation"],
-    "link": "https://github.com/waelelsafty"
+    "id": "erp-platform",
+    "title": "Vertex ERP Platform",
+    "description": "Modular ERP suite aligning operations, finance, and analytics on one canvas.",
+    "tags": ["ERP", "ERPNext", "Automation"],
+    "link": "https://github.com/wylzdev/vertex-erp",
+    "image": "vertex-erp"
   },
   {
-    "title": "Procurement Automation Dashboards",
-    "description": "Delivered analytics-ready procurement workflows with custom scripts, notifications, and SLA dashboards across departments.",
-    "image": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&w=1200&q=80",
-    "tags": ["Dashboards", "Python", "ERP"],
-    "link": "https://github.com/waelelsafty"
+    "id": "pos-system",
+    "title": "FlowPOS Omnichannel",
+    "description": "Unified retail experience with offline-first POS and inventory intelligence.",
+    "tags": ["POS", "React", "Retail"],
+    "link": "https://github.com/wylzdev/flowpos",
+    "image": "flow-pos"
   },
   {
-    "title": "Dandy Mall Unit Management Platform",
-    "description": "Streamlined contract, unit, and leasing management with automated workflows and data visualizations for leadership.",
-    "image": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=1200&q=80",
-    "tags": ["Operations", "Dashboards", "Workflow"],
-    "link": "https://www.linkedin.com/in/wael-elsafty"
+    "id": "react-dashboard",
+    "title": "Nova Analytics Dashboard",
+    "description": "Realtime dashboards blending marketing, CRM, and product insights.",
+    "tags": ["Dashboard", "SaaS", "TypeScript"],
+    "link": "https://github.com/wylzdev/nova-dashboard",
+    "image": "nova-dashboard"
   },
   {
-    "title": "Smart Retail Reporting Engine",
-    "description": "Designed real-time reporting tools for retail partners, combining POS data, inventory KPIs, and actionable alerts.",
-    "image": "https://images.unsplash.com/photo-1545239351-1141bd82e8a6?auto=format&fit=crop&w=1200&q=80",
-    "tags": ["Reporting", "Node.js", "Data"],
-    "link": "https://github.com/waelelsafty"
-  },
-  {
-    "title": "E-commerce & ERP Integrations",
-    "description": "Built custom backend features linking storefronts with ERPNext for stock sync, invoicing, and customer journeys.",
-    "image": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1200&q=80",
-    "tags": ["E-commerce", "APIs", "Automation"],
-    "link": "https://github.com/waelelsafty"
+    "id": "mobile-app",
+    "title": "PulseFit Mobile",
+    "description": "Cross-platform fitness companion with dynamic content and wearables sync.",
+    "tags": ["Mobile", "Flutter", "API"],
+    "link": "https://github.com/wylzdev/pulsefit",
+    "image": "pulsefit"
   }
 ]
