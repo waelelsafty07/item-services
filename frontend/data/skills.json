@@ -1,14 +1,16 @@
 [
   { "name": "JavaScript & TypeScript" },
-  { "name": "React & Next.js" },
+  { "name": "React & Redux" },
+  { "name": "HTML5 & CSS3" },
   { "name": "Python" },
-  { "name": "Node.js" },
   { "name": "Frappe / ERPNext" },
-  { "name": "MySQL & Redis" },
-  { "name": "REST API Design" },
-  { "name": "Microservices Architecture" },
-  { "name": "AWS & Azure" },
-  { "name": "Git, GitHub & CI/CD" },
-  { "name": "Problem Solving & ACM Coaching" },
-  { "name": "UI Engineering" }
+  { "name": "Node.js" },
+  { "name": "MySQL" },
+  { "name": "Redis" },
+  { "name": "Docker & Linux" },
+  { "name": "AWS & Oracle Cloud" },
+  { "name": "Design Patterns" },
+  { "name": "Test-Driven Development" },
+  { "name": "Git & GitHub" },
+  { "name": "Remote Pair Programming" }
 ]
