@@ -21,8 +21,6 @@ const config: Config = {
         heading: ['"Playfair Display"', 'Poppins', 'serif']
       },
       backgroundImage: {
-        'brand-gradient':
-          'radial-gradient(circle at top left, rgba(59, 130, 246, 0.35), transparent 55%), radial-gradient(circle at bottom right, rgba(59, 130, 246, 0.25), transparent 60%)',
         'hero-gradient-light':
           'radial-gradient(circle at 12% 18%, rgba(59, 130, 246, 0.18), transparent 60%), radial-gradient(circle at 82% 12%, rgba(125, 211, 252, 0.22), transparent 55%), linear-gradient(180deg, rgba(241, 245, 249, 0.85) 0%, rgba(255, 255, 255, 0.95) 60%, #ffffff 100%)',
         'hero-gradient-dark':
