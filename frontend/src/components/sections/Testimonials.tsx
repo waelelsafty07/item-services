@@ -9,8 +9,8 @@ const Testimonials = () => {
       <div className="mx-auto max-w-6xl px-6">
         <SectionHeading
           eyebrow="Testimonials"
-          title="Partners who trust the journey"
-          description="Feedback from founders and teams Wael collaborated with to launch transformative products."
+          title="What partners say"
+          description="Operational leaders and engineering managers on collaborating with Wael."
           align="center"
         />
 

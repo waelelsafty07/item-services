@@ -20,8 +20,8 @@ const Projects = () => {
       <div className="mx-auto max-w-6xl px-6">
         <SectionHeading
           eyebrow="Projects"
-          title="Selected work from Wael’s studio"
-          description="A snapshot of platforms, products, and campaigns crafted for ambitious teams."
+          title="Highlighted implementations"
+          description="Snapshots of ERP, HR, and analytics work delivered for partners across retail, entertainment, and tech."
         />
 
         <div className="mt-14 grid gap-6 md:grid-cols-2">

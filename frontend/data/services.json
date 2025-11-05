@@ -1,38 +1,38 @@
 [
   {
-    "id": "web",
-    "title": "Web Development",
-    "description": "High-performing, accessible web applications tailored to your brand.",
-    "pill": "Full-Stack"
+    "id": "erpnext",
+    "title": "ERPNext Implementations",
+    "description": "Designing and extending ERPNext to map real-world operations, approvals, and financial flows.",
+    "pill": "ERPNext"
   },
   {
-    "id": "mobile",
-    "title": "Mobile App Development",
-    "description": "Native and cross-platform apps with delightful user journeys.",
-    "pill": "iOS · Android"
+    "id": "backend-architecture",
+    "title": "Backend Architecture & APIs",
+    "description": "Building secure services with Python, Frappe, and Node.js that keep data consistent across teams.",
+    "pill": "Python · Node.js"
   },
   {
-    "id": "erp",
-    "title": "ERP & Business Systems",
-    "description": "Custom ERPNext workflows and integrations that empower teams.",
-    "pill": "Automation"
+    "id": "performance",
+    "title": "Database Performance Tuning",
+    "description": "Optimizing MySQL and Redis workloads with indexing strategies, caching, and query profiling.",
+    "pill": "MySQL · Redis"
   },
   {
-    "id": "uiux",
-    "title": "UI/UX Design",
-    "description": "Human-centered interfaces with storytelling and precision.",
-    "pill": "Design Sprints"
+    "id": "automation",
+    "title": "Automation & Integrations",
+    "description": "Connecting ERP, HR, and POS systems with third-party tools through reliable REST and webhook pipelines.",
+    "pill": "Workflow Ops"
   },
   {
-    "id": "branding",
-    "title": "Branding & Digital Marketing",
-    "description": "Strategy, identity, and campaigns that resonate across digital touchpoints.",
-    "pill": "Growth"
+    "id": "cloud",
+    "title": "Cloud Deployment & Ops",
+    "description": "Shipping containerized workloads to AWS and Oracle Cloud with monitoring, backups, and CI/CD.",
+    "pill": "Cloud"
   },
   {
-    "id": "social",
-    "title": "Social Media Promotion",
-    "description": "Content and automation to amplify your reach and community.",
-    "pill": "Engagement"
+    "id": "mentorship",
+    "title": "Technical Mentorship",
+    "description": "Guiding junior developers through design reviews, testing practices, and production-ready delivery.",
+    "pill": "Team Enablement"
   }
 ]
