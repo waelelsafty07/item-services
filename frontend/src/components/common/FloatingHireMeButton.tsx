@@ -12,7 +12,7 @@ const FloatingHireMeButton = ({ onClick }: FloatingHireMeButtonProps) => (
     aria-label="Open contact form"
     className="fixed bottom-8 right-6 z-40 rounded-full bg-sky px-6 py-3 text-sm font-semibold text-white shadow-lg shadow-sky/40"
   >
-    Hire Me
+    Schedule a call
   </motion.button>
 );
 

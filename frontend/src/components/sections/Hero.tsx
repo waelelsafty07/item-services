@@ -54,13 +54,13 @@ const Hero = ({ onViewProjects, onHireClick }: HeroProps) => {
           className="max-w-2xl"
         >
           <span className="mb-4 inline-flex items-center gap-2 rounded-full border border-slate-200 bg-white px-4 py-2 text-xs uppercase tracking-[0.4em] text-slate-500 dark:border-white/10 dark:bg-white/5 dark:text-white/70">
-            Creative Technologist
+            Backend Engineer
           </span>
           <h1 className="font-heading text-4xl text-slate-900 sm:text-5xl md:text-6xl dark:text-white">
             Hi, I’m <span className="text-sky">Wael Elsafty</span>.
           </h1>
           <p className="mt-6 text-lg text-slate-600 md:text-xl dark:text-white/70">
-            I craft end-to-end digital solutions—merging strategy, design, and robust engineering to transform ideas into immersive experiences.
+            I build dependable ERPNext and backend platforms that automate operations, surface the right data, and keep teams aligned.
           </p>
           <div className="mt-10 flex flex-wrap gap-4">
             <motion.button
@@ -69,7 +69,7 @@ const Hero = ({ onViewProjects, onHireClick }: HeroProps) => {
               onClick={onViewProjects}
               className="rounded-full bg-sky px-8 py-3 text-sm font-semibold text-white shadow-lg shadow-sky/30"
             >
-              View Projects
+              Explore work
             </motion.button>
             <motion.button
               whileHover={{ scale: 1.05 }}
@@ -77,7 +77,7 @@ const Hero = ({ onViewProjects, onHireClick }: HeroProps) => {
               onClick={onHireClick}
               className="rounded-full border border-slate-300 px-8 py-3 text-sm font-semibold text-slate-900 hover:border-sky/60 dark:border-white/20 dark:text-white"
             >
-              Hire Me
+              Schedule a call
             </motion.button>
           </div>
         </motion.div>
@@ -90,15 +90,15 @@ const Hero = ({ onViewProjects, onHireClick }: HeroProps) => {
         >
           <div className="absolute hidden h-60 w-60 rounded-full bg-sky/20 blur-3xl dark:block" />
           <div className="relative rounded-[32px] border border-slate-200 bg-white/70 p-8 backdrop-blur-xl dark:border-white/10 dark:bg-white/5">
-            <p className="text-sm uppercase tracking-[0.35em] text-slate-500 dark:text-white/60">Full-Stack Developer</p>
+            <p className="text-sm uppercase tracking-[0.35em] text-slate-500 dark:text-white/60">ERP & Backend Specialist</p>
             <p className="mt-6 text-lg text-slate-700 dark:text-white/80">
-              Turning ideas into digital experiences that feel bespoke, scalable, and future-ready.
+              Designing reliable services, integrations, and databases that let businesses scale with clarity.
             </p>
             <div className="mt-6 flex flex-wrap gap-3 text-xs font-medium text-slate-500 dark:text-white/60">
-              <span className="rounded-full bg-slate-100 px-3 py-1 dark:bg-white/10">React</span>
-              <span className="rounded-full bg-slate-100 px-3 py-1 dark:bg-white/10">TypeScript</span>
               <span className="rounded-full bg-slate-100 px-3 py-1 dark:bg-white/10">ERPNext</span>
-              <span className="rounded-full bg-slate-100 px-3 py-1 dark:bg-white/10">UX Strategy</span>
+              <span className="rounded-full bg-slate-100 px-3 py-1 dark:bg-white/10">Frappe</span>
+              <span className="rounded-full bg-slate-100 px-3 py-1 dark:bg-white/10">Python</span>
+              <span className="rounded-full bg-slate-100 px-3 py-1 dark:bg-white/10">MySQL</span>
             </div>
           </div>
         </motion.div>

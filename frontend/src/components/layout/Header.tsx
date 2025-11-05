@@ -66,7 +66,7 @@ const Header = ({ onHireClick }: HeaderProps) => {
             onClick={onHireClick}
             className="rounded-full border border-sky/70 px-4 py-2 text-sm font-medium text-slate-900 transition hover:bg-sky/90 hover:text-white dark:text-white"
           >
-            Hire Me
+            Schedule a call
           </button>
         </div>
       </div>
