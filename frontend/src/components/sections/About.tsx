@@ -2,14 +2,7 @@ import { motion } from 'framer-motion';
 import SectionHeading from '../ui/SectionHeading';
 import SkillBadge from '../ui/SkillBadge';
 
-const skills = [
-  'React',
-  'Node.js',
-  'TypeScript',
-  'ERPNext',
-  'REST APIs',
-  'UI/UX Strategy'
-];
+const skills = ['ERPNext', 'Frappe', 'Python', 'Node.js', 'MySQL', 'Redis'];
 
 const About = () => {
   return (
@@ -19,8 +12,8 @@ const About = () => {
         <div className="md:w-1/2">
           <SectionHeading
             eyebrow="About"
-            title="Creative Full-Stack Developer & Digital Solutions Expert"
-            description="Wael blends business acumen with technical craftsmanship to design and build products that accelerate growth, streamline operations, and delight users."
+            title="Backend engineer focused on operational excellence"
+            description="Wael maps business processes into ERPNext and backend services, making it easy for teams to trust their tools and data."
           />
         </div>
         <div className="md:w-1/2">
@@ -31,7 +24,7 @@ const About = () => {
             transition={{ duration: 0.6, delay: 0.15 }}
             className="text-lg leading-relaxed text-slate-600 dark:text-white/75"
           >
-            With over 8 years partnering with startups and enterprises across the MENA region, Wael guides teams from strategy to shipping. He architected ERP systems for healthcare networks, built interactive commerce platforms, and designed mobile apps that scale to millions of sessions.
+            Wael has spent the last several years crafting ERPNext implementations and backend platforms for retailers, entertainment venues, and HR teams. He translates requirements into dependable workflows, integrations, and analytics that let stakeholders make confident decisions.
           </motion.p>
           <motion.p
             initial={{ opacity: 0, y: 20 }}
@@ -40,7 +33,7 @@ const About = () => {
             transition={{ duration: 0.6, delay: 0.25 }}
             className="mt-6 text-lg leading-relaxed text-slate-500 dark:text-white/60"
           >
-            His toolkit fuses modern frameworks with systems thinking—bridging technology, design, and marketing to deliver measurable impact.
+            He leans on proven engineering practices—performance profiling, testing, and automation—to keep deployments stable long after launch.
           </motion.p>
           <div className="mt-8 flex flex-wrap gap-3">
             {skills.map((skill, index) => (

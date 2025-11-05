@@ -1,15 +1,15 @@
 {
   "name": "Wael Elsafty",
-  "tagline": "Backend developer turning operations into resilient digital systems.",
-  "title": "Software Engineer • Backend & ERPNext Specialist",
-  "location": "Cairo, Egypt (Remote)",
-  "about": "Backend developer passionate about software engineering, databases, and scalable ERP platforms. I help companies digitize complex processes by designing robust architectures, optimizing performance, and integrating the tools that teams rely on every day.",
-  "summary": "I deliver end-to-end ERPNext and backend solutions — from workflow automation and API integrations to data-rich dashboards that keep operations running smoothly.",
-  "email": "wael.elsafty07@gmail.com",
-  "phone": "+20 106 239 3137",
+  "tagline": "Backend engineer turning operations into resilient digital systems.",
+  "title": "Software Engineer • Backend & ERP Specialist",
+  "location": "Ismailia, Egypt · Remote",
+  "about": "Backend engineer focused on ERPNext, Python, and Node.js. I design data-driven systems, automate workflows, and fine-tune databases so teams can move faster with confidence.",
+  "summary": "I partner with product and operations leaders to deliver dependable ERP and backend platforms — from integrations and API design to performance tuning and reporting.",
+  "email": "w.elsafty07@gmail.com",
+  "phone": "+20 100 623 9317",
   "social": {
     "github": "https://github.com/waelelsafty",
-    "linkedin": "https://www.linkedin.com/in/wael-elsafty",
-    "instagram": "https://www.instagram.com/wylz.dev"
+    "linkedin": "https://www.linkedin.com/in/wael-elsafty/",
+    "website": "https://wylz.dev"
   }
 }

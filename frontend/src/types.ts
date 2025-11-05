@@ -2,7 +2,19 @@ export type Skill = {
   name: string;
 };
 
-export type ServiceId = 'web' | 'mobile' | 'erp' | 'uiux' | 'branding' | 'social';
+export type ServiceId =
+  | 'web'
+  | 'mobile'
+  | 'erp'
+  | 'uiux'
+  | 'branding'
+  | 'social'
+  | 'erpnext'
+  | 'backend-architecture'
+  | 'performance'
+  | 'automation'
+  | 'cloud'
+  | 'mentorship';
 
 export type Service = {
   id: ServiceId;
@@ -36,7 +48,8 @@ export type Profile = {
   social: {
     github: string;
     linkedin: string;
-    instagram: string;
+    website?: string;
+    instagram?: string;
   };
 };
 

@@ -1,20 +1,20 @@
 [
   {
-    "id": "lina-haddad",
-    "quote": "Wael turned our fragmented operations into a seamless digital ecosystem. We launched in half the time we expected.",
-    "name": "Lina Haddad",
-    "role": "COO, Horizon Clinics"
+    "id": "amr-ibrahim",
+    "quote": "Wael translated our leasing process into ERPNext with incredible accuracy. We finally have one source of truth for contracts and occupancy.",
+    "name": "Amr Ibrahim",
+    "role": "Operations Director, Dandy Mall"
   },
   {
-    "id": "omar-saeed",
-    "quote": "His ability to translate vision into intuitive user journeys is unmatched. Our conversion rate jumped by 42%.",
-    "name": "Omar Saeed",
-    "role": "Founder, SwiftCommerce"
+    "id": "sara-mahmoud",
+    "quote": "His attendance automation saved our HR team hours each week and made payroll adjustments effortless.",
+    "name": "Sara Mahmoud",
+    "role": "HR Lead, Mosyr"
   },
   {
-    "id": "marie-cho",
-    "quote": "From ERP automations to product design, Wael delivered a cohesive experience that our team loves to use every day.",
-    "name": "Marie Cho",
-    "role": "Product Lead, Atlas Mobility"
+    "id": "kareem-nassar",
+    "quote": "Wael brings a calm, methodical approach to backend problems. His code reviews lifted the quality bar across the team.",
+    "name": "Kareem Nassar",
+    "role": "CTO, Bld.ai"
   }
 ]

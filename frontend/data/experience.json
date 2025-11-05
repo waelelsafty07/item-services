@@ -7,56 +7,57 @@
     "start": "Jun 2023",
     "end": "Present",
     "workType": "Full-time",
-    "summary": "Leading end-to-end ERPNext solutions for enterprise teams and partners.",
+    "summary": "Backend engineer building ERPNext solutions for retail, entertainment, and HR teams.",
     "achievements": [
-      "Delivered multiple ERP deployments from requirements gathering to launch, tailoring modules for support, finance, and operations.",
-      "Integrated contact-center tooling with ERPNext to sync tickets, contracts, and SLAs in real time.",
-      "Built automated workflows and reporting dashboards that highlight KPIs for distributed stakeholders."
+      "Implemented the Dandy Mall ERP workspace with custom modules for contracts, unit management, and customer billing.",
+      "Extended Mosyr's HR attendance system to automate salary deductions and rewards based on performance rules.",
+      "Enhanced Vim Entertainment's POS reservations with advance payment tracking and cashier-friendly workflows.",
+      "Profiled ClassA's database queries, reducing response times and improving nightly job stability."
     ]
   },
   {
-    "id": "dandy-mall",
-    "role": "Systems Specialist",
-    "company": "Dandy Mall",
-    "location": "Remote",
-    "start": "Feb 2022",
-    "end": "May 2023",
-    "workType": "Full-time",
-    "summary": "Managed technology and analytics for units, contracts, and leasing operations.",
-    "achievements": [
-      "Centralized unit inventory, contract workflows, and documentation into a unified ERPNext workspace.",
-      "Designed executive dashboards that surface leasing performance, occupancy, and revenue trends.",
-      "Connected cross-team data sources to streamline approvals and reduce manual follow-up."
-    ]
-  },
-  {
-    "id": "freelance",
+    "id": "bld-ai",
     "role": "Software Engineer",
-    "company": "Freelance Projects",
+    "company": "Bld.ai",
     "location": "Remote",
-    "start": "Jan 2022",
-    "end": "May 2023",
-    "workType": "Contract",
-    "summary": "Delivered custom web applications, ERP extensions, and backend services for SMEs.",
+    "start": "Jun 2022",
+    "end": "Apr 2023",
+    "workType": "Full-time",
+    "summary": "Delivered Django-based services with a focus on backend reliability and integrations.",
     "achievements": [
-      "Shipped responsive web apps and e-commerce experiences optimized for conversions and maintainability.",
-      "Developed REST APIs, authentication workflows, and integrations connecting ERPNext with third-party services.",
-      "Coordinated delivery across design, development, and deployment to keep projects on schedule."
+      "Built scalable REST APIs that supported new product launches and internal tooling.",
+      "Collaborated with distributed teams to review designs, estimate work, and ship iterative releases.",
+      "Introduced testing and deployment improvements that increased confidence in weekly releases."
     ]
   },
   {
-    "id": "acm-trainer",
-    "role": "ACM Problem Solving Trainer",
-    "company": "Malvern College Egypt",
-    "location": "Remote",
-    "start": "May 2020",
-    "end": "Mar 2023",
+    "id": "gdsc",
+    "role": "Head of Backend Team",
+    "company": "Google Developer Student Clubs",
+    "location": "Ismailia, Egypt",
+    "start": "May 2021",
+    "end": "Jul 2022",
     "workType": "Volunteer",
-    "summary": "Coached students on algorithms, data structures, and competitive programming foundations.",
+    "summary": "Mentored student developers, provided technical support, and reviewed backend codebases.",
     "achievements": [
-      "Prepared weekly problem-solving sessions focused on algorithmic thinking and clean implementations.",
-      "Mentored teams participating in national programming contests and hackathons.",
-      "Helped students adopt productive workflows with Git, testing, and code reviews."
+      "Led workshops on API design, database modeling, and deployment best practices.",
+      "Supported junior developers through code reviews and pair-programming sessions.",
+      "Helped organize campus events introducing newcomers to computer science."
+    ]
+  },
+  {
+    "id": "trosc",
+    "role": "IT Team Member",
+    "company": "TROSC",
+    "location": "Ismailia, Egypt",
+    "start": "May 2019",
+    "end": "Jul 2022",
+    "workType": "Volunteer",
+    "summary": "Coordinated community programs to help students explore technology careers.",
+    "achievements": [
+      "Organized faculty events and onboarding sessions for new computer science students.",
+      "Maintained club systems and supported live event logistics.",
+      "Connected students with mentorship resources and local tech initiatives."
     ]
   }
 ]

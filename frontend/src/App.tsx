@@ -59,7 +59,7 @@ const App = () => {
 
       <Modal isOpen={isModalOpen} onClose={handleCloseModal} title="Start a project">
         <p className="mb-6 text-sm text-slate-600 dark:text-white/70">
-          Tell Wael about your product idea, timelines, and desired outcomes. He’ll respond within two business days.
+          Share the processes you need to streamline, the systems you rely on, and any performance targets. Wael will reply within two business days.
         </p>
         {contactForm}
       </Modal>
