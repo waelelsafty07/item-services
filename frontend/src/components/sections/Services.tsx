@@ -9,8 +9,8 @@ const Services = () => {
       <div className="mx-auto max-w-6xl px-6">
         <SectionHeading
           eyebrow="Services"
-          title="End-to-end expertise for bold digital products"
-          description="From validating ideas to scaling platforms, Wael partners with teams to architect, design, and ship experiences that feel timeless."
+          title="Backend systems that keep operations moving"
+          description="From ERPNext rollouts to performance tuning, Wael helps teams automate work, share data, and deploy with confidence."
           align="center"
         />
 
