@@ -6,8 +6,15 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
+        brand: {
+          dark: '#0F172A',
+          accent: '#3B82F6',
+          light: '#FFFFFF'
+        },
         midnight: '#0F172A',
-        sky: '#3B82F6'
+        sky: {
+          DEFAULT: '#3B82F6'
+        }
       },
       fontFamily: {
         sans: ['Inter', 'ui-sans-serif', 'system-ui'],

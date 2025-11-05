@@ -21,8 +21,11 @@ export const useTheme = () => {
 
   useEffect(() => {
     const root = document.documentElement;
-    root.classList.remove(theme === 'dark' ? 'light' : 'dark');
-    root.classList.add(theme);
+    root.classList.remove('light', 'dark');
+    if (theme === 'dark') {
+      root.classList.add('dark');
+    }
+
     document.body.classList.remove('light', 'dark');
     document.body.classList.add(theme);
     document.body.dataset.theme = theme;
