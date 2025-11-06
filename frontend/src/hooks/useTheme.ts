@@ -22,14 +22,13 @@ export const useTheme = () => {
   useEffect(() => {
     const root = document.documentElement;
     root.classList.remove('light', 'dark');
-    if (theme === 'dark') {
-      root.classList.add('dark');
-    }
+    root.classList.add(theme === 'dark' ? 'dark' : 'light');
+    root.dataset.theme = theme;
+    root.style.colorScheme = theme;
 
     document.body.classList.remove('light', 'dark');
     document.body.classList.add(theme);
     document.body.dataset.theme = theme;
-    document.documentElement.style.colorScheme = theme;
     window.localStorage.setItem('wylz-theme', theme);
   }, [theme]);
 

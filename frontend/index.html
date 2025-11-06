@@ -16,22 +16,33 @@
     />
     <script>
       (() => {
-        try {
-          const storageKey = 'wylz-theme';
+        const applyTheme = (theme) => {
           const root = document.documentElement;
-          const stored = window.localStorage.getItem(storageKey);
-          const theme = stored === 'light' ? 'light' : 'dark';
-
-          if (theme === 'dark') {
-            root.classList.add('dark');
-          } else {
-            root.classList.remove('dark');
-          }
-
+          root.classList.remove('light', 'dark');
+          root.classList.add(theme === 'dark' ? 'dark' : 'light');
           root.dataset.theme = theme;
           root.style.colorScheme = theme;
+
+          const setBodyTheme = () => {
+            document.body.classList.remove('light', 'dark');
+            document.body.classList.add(theme);
+            document.body.dataset.theme = theme;
+          };
+
+          if (document.body) {
+            setBodyTheme();
+          } else {
+            document.addEventListener('DOMContentLoaded', setBodyTheme, { once: true });
+          }
+        };
+
+        try {
+          const storageKey = 'wylz-theme';
+          const stored = window.localStorage.getItem(storageKey);
+          const theme = stored === 'light' ? 'light' : 'dark';
+          applyTheme(theme);
         } catch (error) {
-          document.documentElement.classList.add('dark');
+          applyTheme('dark');
         }
       })();
     </script>
