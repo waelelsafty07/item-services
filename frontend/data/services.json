@@ -24,6 +24,12 @@
     "pill": "Workflow Ops"
   },
   {
+    "id": "frontend-frameworks",
+    "title": "Frontend Framework Expertise",
+    "description": "Delivering polished user experiences with Next.js, React, and Vue that pair seamlessly with backend services.",
+    "pill": "Next.js · React · Vue"
+  },
+  {
     "id": "cloud",
     "title": "Cloud Deployment & Ops",
     "description": "Shipping containerized workloads to AWS and Oracle Cloud with monitoring, backups, and CI/CD.",
