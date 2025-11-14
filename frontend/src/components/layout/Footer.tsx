@@ -8,13 +8,13 @@ const Footer = () => {
           © {year} Wael Elsafty — <span className="text-slate-700 dark:text-white">wylz.dev</span>
         </p>
         <div className="flex gap-6">
-          <a href="https://github.com/waelelsafty" target="_blank" rel="noreferrer" className="hover:text-sky">
+          <a href="https://github.com/waelelsafty07" target="_blank" rel="noreferrer" className="hover:text-sky">
             GitHub
           </a>
-          <a href="https://linkedin.com/in/wael-elsafty" target="_blank" rel="noreferrer" className="hover:text-sky">
+          <a href="https://linkedin.com/in/waelelsafty" target="_blank" rel="noreferrer" className="hover:text-sky">
             LinkedIn
           </a>
-          <a href="mailto:w.elsafty07@gmail.com" className="hover:text-sky">
+          <a href="mailto:mail@wylz.dev" className="hover:text-sky">
             Email
           </a>
         </div>

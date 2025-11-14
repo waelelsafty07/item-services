@@ -27,7 +27,7 @@ const Contact = () => {
               </p>
               <div className="mt-6 space-y-2 text-sm text-slate-500 dark:text-white/50">
                 <p>📍 Ismailia, Egypt · Remote worldwide</p>
-                <p>✉️ w.elsafty07@gmail.com</p>
+                <p>✉️ mail@wylz.dev</p>
               </div>
             </div>
             <ContactForm />

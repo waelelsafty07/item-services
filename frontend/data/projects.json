@@ -1,34 +1,34 @@
 [
   {
-    "id": "dandy-mall-system",
-    "title": "Dandy Mall Operations Suite",
+    "id": "Units-System",
+    "title": "Units Operations Suite",
     "description": "ERPNext workspace centralizing unit inventory, leasing contracts, and customer records for mall leadership.",
     "tags": ["ERPNext", "Property Management", "Contracts"],
-    "link": "mailto:w.elsafty07@gmail.com?subject=Case%20Study%20Request%20-%20Dandy%20Mall",
+    "link": "mailto:mail@wylz.dev?subject=Case%20Study%20Request%20-%20Dandy%20Mall",
     "image": "vertex-erp"
   },
   {
-    "id": "mosyr-hr",
-    "title": "Mosyr HR Attendance Engine",
+    "id": "HR",
+    "title": "HR Attendance Engine",
     "description": "Customized HR module that automates attendance adjustments, payroll deductions, and performance rewards.",
     "tags": ["HR Tech", "Automation", "Frappe"],
-    "link": "mailto:w.elsafty07@gmail.com?subject=Case%20Study%20Request%20-%20Mosyr%20HR",
+    "link": "mailto:mail@wylz.dev?subject=Case%20Study%20Request%20-%20Mosyr%20HR",
     "image": "nova-dashboard"
   },
   {
-    "id": "vim-entertainment-pos",
-    "title": "Vim Entertainment POS",
+    "id": "pos",
+    "title": "POS",
     "description": "Point-of-sale experience enabling cashiers to reserve events, track deposits, and reconcile payouts in real time.",
     "tags": ["POS", "Payments", "ERPNext"],
-    "link": "mailto:w.elsafty07@gmail.com?subject=Case%20Study%20Request%20-%20Vim%20Entertainment",
+    "link": "mailto:mail@wylz.dev?subject=Case%20Study%20Request%20-%20pos",
     "image": "flow-pos"
   },
   {
-    "id": "classa-performance",
-    "title": "ClassA Performance Optimizations",
+    "id": "Performance",
+    "title": "Performance Optimizations",
     "description": "Database profiling initiative that reduced query load, improved response times, and stabilized nightly jobs.",
     "tags": ["Performance", "MySQL", "Monitoring"],
-    "link": "mailto:w.elsafty07@gmail.com?subject=Case%20Study%20Request%20-%20ClassA",
+    "link": "mailto:mail@wylz.dev?subject=Case%20Study%20Request%20-%20Performance%20Optimizations",
     "image": "pulsefit"
   }
 ]

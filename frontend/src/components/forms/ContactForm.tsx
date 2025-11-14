@@ -83,7 +83,7 @@ const ContactForm = ({ compact = false }: ContactFormProps) => {
         {status === 'submitting' ? 'Sending…' : status === 'success' ? 'Message sent!' : 'Send Message'}
       </motion.button>
       {status === 'error' && (
-        <p className="text-sm text-red-500 dark:text-red-300">Something went wrong. Please try again or email w.elsafty07@gmail.com.</p>
+        <p className="text-sm text-red-500 dark:text-red-300">Something went wrong. Please try again or email mail@wylz.dev.</p>
       )}
     </motion.form>
   );

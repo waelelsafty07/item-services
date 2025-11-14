@@ -6,7 +6,7 @@ import Hero from './components/sections/Hero';
 import About from './components/sections/About';
 import Services from './components/sections/Services';
 import Projects from './components/sections/Projects';
-import Testimonials from './components/sections/Testimonials';
+// import Testimonials from './components/sections/Testimonials';
 import Contact from './components/sections/Contact';
 import FloatingHireMeButton from './components/common/FloatingHireMeButton';
 import Modal from './components/common/Modal';
@@ -93,7 +93,6 @@ const App = () => {
             <About />
             <Services />
             <Projects />
-            <Testimonials />
             <Contact />
           </motion.div>
         </AnimatePresence>

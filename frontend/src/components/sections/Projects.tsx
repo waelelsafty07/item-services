@@ -63,14 +63,14 @@ const Projects = () => {
                       </span>
                     ))}
                   </div>
-                  <motion.button
+                  {/* <motion.button
                     onClick={() => handleNavigate(project.link)}
                     whileHover={{ x: 4 }}
                     className="mt-8 inline-flex items-center gap-2 text-sm font-semibold text-sky"
                   >
-                    View Project
+                    
                     <span aria-hidden>→</span>
-                  </motion.button>
+                  </motion.button> */}
                 </div>
               </motion.article>
             );

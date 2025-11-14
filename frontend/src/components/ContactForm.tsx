@@ -34,7 +34,7 @@ export const ContactForm = ({ onSuccess }: { onSuccess?: () => void }) => {
     } catch (error) {
       console.error(error);
       setStatus('error');
-      setMessage('Something went wrong. Please email hello@wylz.dev.');
+      setMessage('Something went wrong. Please email mail@wylz.dev.');
     }
   };
 
