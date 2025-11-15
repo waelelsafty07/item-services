@@ -5,7 +5,7 @@ interface ContactFormProps {
   compact?: boolean;
 }
 
-const FORMSPREE_URL = 'https://formspree.io/f/xpzvkyal';
+const FORMSPREE_URL = 'https://formspree.io/f/xkgkjyae';
 
 const ContactForm = ({ compact = false }: ContactFormProps) => {
   const [status, setStatus] = useState<'idle' | 'submitting' | 'success' | 'error'>('idle');

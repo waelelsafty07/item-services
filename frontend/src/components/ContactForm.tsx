@@ -1,6 +1,6 @@
 import { FormEvent, useState } from 'react';
 
-const FORM_ENDPOINT = 'https://formspree.io/f/mwkjoqya';
+const FORM_ENDPOINT = 'https://formspree.io/f/xkgkjyae';
 
 export const ContactForm = ({ onSuccess }: { onSuccess?: () => void }) => {
   const [status, setStatus] = useState<'idle' | 'loading' | 'success' | 'error'>('idle');
@@ -19,9 +19,11 @@ export const ContactForm = ({ onSuccess }: { onSuccess?: () => void }) => {
         method: 'POST',
         body: formData,
         headers: {
-          Accept: 'application/json'
-        }
+          Accept: 'application/json',
+        },
       });
+
+      const data = await response.json().catch(() => null);
 
       if (response.ok) {
         setStatus('success');
@@ -29,14 +31,17 @@ export const ContactForm = ({ onSuccess }: { onSuccess?: () => void }) => {
         form.reset();
         onSuccess?.();
       } else {
-        throw new Error('Request failed');
+        const apiMessage =
+          data?.errors?.[0]?.message || data?.error || 'Request failed';
+        throw new Error(apiMessage);
       }
-    } catch (error) {
+    } catch (error: any) {
       console.error(error);
       setStatus('error');
-      setMessage('Something went wrong. Please email mail@wylz.dev.');
+      setMessage(error?.message || 'Something went wrong. Please email mail@wylz.dev.');
     }
   };
+
 
   return (
     <form className="space-y-6" onSubmit={handleSubmit}>
